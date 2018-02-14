@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ShowcaseView</string>
+    <string name="anim_first">First we showcase this…</string>
+    <string name="anim_second">Then this…</string>
+    <string name="title_animations">Animations</string>
+    <string name="sum_animations">Using ObjectAnimators to animate ShowcaseViews</string>
+    <string name="anim_third">Finally this!</string>
+    <string name="next">Next</string>
+    <string name="close">Close</string>
+</resources>
